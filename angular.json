@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "photos"
+    }
+  },
+  "defaultProject": "photos",
+  "cli": {
+    "analytics": "3b20b622-7b65-4ef5-aa83-72a9f40ec5ab"
+  }
 }

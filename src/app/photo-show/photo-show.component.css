@@ -1,0 +1,9 @@
+img {
+    width: 50%;
+    padding-top: 1%;
+}
+
+.but, .i  {
+    display:flex;
+    justify-content: center;
+}
